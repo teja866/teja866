@@ -5,66 +5,78 @@
 ### BONTHALA V B S N D S GNANA TEJA
 
 🎓 Computer Science Engineering Student @ K L University  
-💻 Programmer | Problem Solver | Tech Enthusiast
+💻 Programmer • Problem Solver • Technology Enthusiast
 
-<br/>
+<br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
+<a href="https://github.com/teja886">
+  <img src="https://img.shields.io/badge/GitHub-teja886-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/bonthala-gnana-teja">
+  <img src="https://img.shields.io/badge/LinkedIn-Gnana%20Teja-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-I'm a Computer Science Engineering student at **K L University** with a strong interest in programming, problem solving, and software development.
+I'm a Computer Science Engineering student at **K L University**, passionate about programming, software development, problem solving, and building practical applications.
 
-I enjoy learning new technologies, building projects, and improving my coding skills through hands-on practice.
+I enjoy learning new technologies, working on projects, solving programming problems, and continuously improving my development skills.
 
-- 🎓 Pursuing Computer Science Engineering at **K L University**
-- 💻 Currently working with **C** and **Python**
+- 🎓 Computer Science Engineering — **K L University**
+- 💻 Programming with **C & Python**
 - 🧠 Interested in **Data Structures & Algorithms**
-- 🚀 Interested in **Software Development**
-- 📚 Continuously learning and improving my technical skills
-- 🎯 Goal: Become a skilled software engineer
+- 🚀 Exploring **Software & Full-Stack Development**
+- 🔧 Building practical projects and experimenting with new technologies
+- 📚 Always learning and improving
+- 🎯 Aspiring Software Engineer
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Programming Languages
+### 💻 Programming Languages
 
 <p>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=c,python" />
 </p>
 
-### Tools & Technologies
+### 🔧 Tools
 
 <p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Featured Projects
 
 ### 🎬 CinePass
 
-> A modern movie ticket booking system focused on a smooth user experience and real-time seat synchronization.
+A modern movie ticket booking platform designed to provide a smooth booking experience with real-time seat synchronization.
 
-**Technologies:** React • Spring Boot • PostgreSQL
+**Tech Stack**
 
-🔗 [View Project](https://github.com/YOUR_USERNAME/CinePass)
+`React` `Spring Boot` `PostgreSQL`
+
+🔗 [View Project](https://github.com/teja886)
 
 ---
 
-### 💡 More Projects Coming Soon...
+### 💡 More Projects
 
-I'm continuously working on new projects to improve my development and problem-solving skills.
+I'm continuously working on new projects focused on:
+
+- Full-Stack Development
+- Backend Development
+- Database Applications
+- Programming & Problem Solving
+- Cloud Technologies
+- AI & Machine Learning
 
 ---
 
@@ -75,7 +87,7 @@ C
 Python
 Data Structures & Algorithms
 Problem Solving
-Software Development
 Web Development
 Backend Development
+Database Management
 Cloud Technologies
