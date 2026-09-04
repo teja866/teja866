@@ -95,5 +95,5 @@ Cloud Technologies
 
 ```
 <div align="center">
-![snake gif](https://raw.githubusercontent.com/teja866/teja866/output/github-snake-dark.svg)
+  ![snake gif](https://raw.githubusercontent.com/teja866/teja866/output/github-snake-dark.svg)
 </div>
