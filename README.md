@@ -10,7 +10,7 @@
 <br>
 
 <a href="https://github.com/teja886">
-  <img src="https://img.shields.io/badge/GitHub-teja886-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-teja866-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 <a href="https://www.linkedin.com/in/bonthala-gnana-teja">
