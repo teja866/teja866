@@ -20,8 +20,6 @@
 </div>
 
 
-![snake gif](https://raw.githubusercontent.com/teja866/teja866/output/github-snake-dark.svg)
-
 ---
 
 ## 👨‍💻 About Me
@@ -96,3 +94,5 @@ Database Management
 Cloud Technologies
 
 ```
+
+![snake gif](https://raw.githubusercontent.com/teja866/teja866/output/github-snake-dark.svg)
