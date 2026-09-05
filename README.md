@@ -68,7 +68,7 @@ A modern movie ticket booking platform designed to provide a smooth booking expe
 
 `React` `Spring Boot` `PostgreSQL`
 
-🔗 [View Project](https://github.com/teja886)
+🔗 [View Project](https://github.com/teja866)
 
 ---
 
